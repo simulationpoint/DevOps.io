@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page Jesh Amera
+## Welcome to my GitHub Page - Jesh Amera
 
 You can use the [editor on GitHub](https://github.com/simulationpoint/DevOps.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
